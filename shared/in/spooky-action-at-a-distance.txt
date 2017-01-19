@@ -1,0 +1,5 @@
+In physics, action at a distance is the concept that an object can be moved, changed, or otherwise affected without being physically touched (as in mechanical contact) by another object. That is, it is the nonlocal interaction of objects that are separated in space. Pioneering physicist Albert Einstein described the phenomenon as "spooky action at a distance".
+
+This term was used most often in the context of early theories of gravity and electromagnetism to describe how an object responds to the influence of distant objects. For example, Coulomb's law and the law of universal gravitation are such early theories.
+
+More generally "action at a distance" describes the failure of early atomistic and mechanistic theories which sought to reduce all physical interaction to collision. The exploration and resolution of this problematic phenomenon led to significant developments in physics, from the concept of a field, to descriptions of quantum entanglement and the mediator particles of the Standard Model
